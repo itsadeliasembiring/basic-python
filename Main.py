@@ -1,0 +1,2 @@
+b="adel"
+print(b)

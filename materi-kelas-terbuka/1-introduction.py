@@ -2,7 +2,7 @@
 - Dibuat dan dikembangkan oleh Guido Van Rossum, dari Belanda. 
 - Pemilihan nama python itu sendiri diambil dari sebuah acara televisi yang lumayan terkenal yang bernama Moth Python Flying Circus yang merupakan acara sirkus favorit dari Guido.
 
-Kelebihan diatara python antara lain :
+Kelebihan diantara python antara lain :
 - Mudah digunakan untuk menulis di perangkat lunak terbaru
 - Mudah untuk diajarkan
 - Mendukung IoT (Internet of Things)
@@ -10,11 +10,13 @@ Kelebihan diatara python antara lain :
 - Serta mudah didapatkan, karena mudah diinstal
 - Multiplatform
 
+Python ga perlu pake titik koma
+
 Induknya python => Bahasa C
 
 Cek versi python --version
 
-Cara jalanin :
+Cara jalanin :pyth
 - klik play
 - python nama-file.py (python theory(folder)/theory-1-introduction.py)
 
